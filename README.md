@@ -1,3 +1,7 @@
+-=(OndraSPO186_Senhor notes)=-
+
+Only for testing. It requires a secondary SD card slot to load software.
+
 # Ondra SPO 186
 [![Ondra SPO 186 image](/pictures/Ondra_th.jpg)](/pictures/Ondra.jpg)  
 [Ondra SPO 186](https://cs.wikipedia.org/wiki/Ondra_(po%C4%8D%C3%ADta%C4%8D)) is a [Czechoslovakian](https://en.wikipedia.org/wiki/Czechoslovakia) 8-bit computer developed in 1985 in [Tesla Liberec](https://en.wikipedia.org/wiki/Tesla_(Czechoslovak_company)) by [Ing. Eduard Smutný](https://cs.wikipedia.org/wiki/Eduard_Smutn%C3%BD), Ing. Tomáš Smutný a Ing. Jan Mercl as a cheap school and home computer. Tesla produced about 2000 Ondra computers.
